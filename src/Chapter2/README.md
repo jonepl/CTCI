@@ -1,6 +1,6 @@
 # Linked List
 
-Linked List - is a linear collectio of dta elements whose order is not  given by their physical in memory.
+Linked List - is a linear collection of data elements whose order is not  given by their physical in memory.
 
 * Properties:
     * Sequential Access - access elements one by one (Not random access)
